@@ -10,6 +10,7 @@ Feel free to test it out!
 Here are some important things in order to test it out:
 
 GPIO configuration:
+'
 _________________
 |NU       5V    |
 |NU       NU    |
@@ -25,6 +26,7 @@ _________________
 |NU       RS    |
 |NU       E     |
 +++++++++++++++++
+'
 
 NU: Not Used
 
